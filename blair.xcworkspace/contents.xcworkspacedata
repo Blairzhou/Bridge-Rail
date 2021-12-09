@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:"
+      name = "">
+      <FileRef
+         location = "group:../../blair.xcworkspace">
+      </FileRef>
+      <FileRef
+         location = "group:../../Bridge Rail.xcworkspace">
+      </FileRef>
+      <Group
+         location = "group:.."
+         name = "..">
+         <FileRef
+            location = "group:Bridge Rail.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:Pods"
+            name = "Pods">
+            <Group
+               location = "group:Loaf"
+               name = "Loaf">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+               <Group
+                  location = "group:Sources"
+                  name = "Sources">
+                  <Group
+                     location = "group:Loaf"
+                     name = "Loaf">
+                     <Group
+                        location = "group:Presenter"
+                        name = "Presenter">
+                        <FileRef
+                           location = "group:Manager.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Controller.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Animator.swift">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:Extensions.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icons.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Loaf.swift">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:Pods.xcodeproj">
+            </FileRef>
+            <Group
+               location = "group:Target Support Files"
+               name = "Target Support Files">
+               <Group
+                  location = "group:Loaf"
+                  name = "Loaf">
+                  <FileRef
+                     location = "group:Loaf-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Loaf.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Loaf.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Loaf-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Loaf-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Loaf.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Loaf-Info.plist">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Pods-Bridge Rail"
+                  name = "Pods-Bridge Rail">
+                  <FileRef
+                     location = "group:Pods-Bridge Rail.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-frameworks-Debug-output-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-frameworks-Release-output-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-acknowledgements.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-frameworks-Release-input-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-frameworks.sh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-acknowledgements.markdown">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-Bridge Rail-frameworks-Debug-input-files.xcfilelist">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:MBProgressHUD"
+                  name = "MBProgressHUD">
+                  <FileRef
+                     location = "group:MBProgressHUD-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MBProgressHUD.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MBProgressHUD-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MBProgressHUD-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MBProgressHUD.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MBProgressHUD-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MBProgressHUD.debug.xcconfig">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:Manifest.lock">
+            </FileRef>
+            <Group
+               location = "group:Local Podspecs"
+               name = "Local Podspecs">
+            </Group>
+            <Group
+               location = "group:Headers"
+               name = "Headers">
+            </Group>
+            <Group
+               location = "group:MBProgressHUD"
+               name = "MBProgressHUD">
+               <FileRef
+                  location = "group:MBProgressHUD.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <FileRef
+                  location = "group:MBProgressHUD.h">
+               </FileRef>
+               <FileRef
+                  location = "group:README.mdown">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Bridge RailTests"
+            name = "Bridge RailTests">
+            <FileRef
+               location = "group:CalculatorPresenterTests.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DCAServiceTests.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Bridge Rail.xcworkspace">
+         </FileRef>
+         <Group
+            location = "group:Bridge Rail"
+            name = "Bridge Rail">
+            <Group
+               location = "group:Assets.xcassets"
+               name = "Assets.xcassets">
+               <Group
+                  location = "group:MoneyTrain1.imageset"
+                  name = "MoneyTrain1.imageset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+                  <FileRef
+                     location = "group:&#x5343;&#x5e93;&#x7f51;_&#x6df1;&#x84dd;&#x8272;&#x9ad8;&#x94c1;&#x526a;&#x5f71;_&#x5143;&#x7d20;&#x7f16;&#x53f7;13268337.png">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:AppIcon.appiconset"
+                  name = "AppIcon.appiconset">
+                  <FileRef
+                     location = "group:88.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:1024.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:76.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:60.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:48.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:216.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:64.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:58.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:167.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:72.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:172.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:29.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:100.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:114.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:128.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:512.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:16.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:120.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:256.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:20.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:32.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+                  <FileRef
+                     location = "group:180.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:57.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:80.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:55.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:196.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:40.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:87.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:50.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:144.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:152.png">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:AccentColor.colorset"
+                  name = "AccentColor.colorset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <Group
+                  location = "group:appstore.imageset"
+                  name = "appstore.imageset">
+                  <FileRef
+                     location = "group:appstore.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+            </Group>
+            <Group
+               location = "group:protocol"
+               name = "protocol">
+               <FileRef
+                  location = "group:UIAnimatable.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Base.lproj"
+               name = "Base.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.storyboard">
+               </FileRef>
+               <FileRef
+                  location = "group:Main.storyboard">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:controller"
+               name = "controller">
+               <FileRef
+                  location = "group:SearchTableViewController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:DateSelecionTableViewController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:CalculatorTableViewController.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:extensions"
+               name = "extensions">
+               <FileRef
+                  location = "group:Int+Extensions.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:String+Extensions.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:UIColor+Extensions.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Date+Extensions.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Double+Extensions.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:UITextfield+Extensions.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:model"
+               name = "model">
+               <FileRef
+                  location = "group:SearchResults.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:TimeSeriesMonthlyAdjusted.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Asset.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:view"
+               name = "view">
+               <FileRef
+                  location = "group:SearchPlaceholderView.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:SearchTableViewCell.swift">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:AppDelegate.swift">
+            </FileRef>
+            <Group
+               location = "group:service"
+               name = "service">
+               <FileRef
+                  location = "group:CalculatorPresenter.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:APIService.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:DCAService.swift">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:SceneDelegate.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Podfile">
+         </FileRef>
+         <FileRef
+            location = "group:Podfile.lock">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "container:Bridge Rail/Bridge Rail.xcodeproj">
+   </FileRef>
+</Workspace>
